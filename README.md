@@ -1,0 +1,4 @@
+cjs
+===
+
+Temporary share hub
